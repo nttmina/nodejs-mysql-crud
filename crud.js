@@ -1,3 +1,11 @@
+/*
+Plugin Name: nodejs-mysql-crud
+Author URI: http://www.247apps.mobi
+Description: support NodeJS application
+Version: 1.0.0
+Author: 247AppsStudio
+*/
+
 'use strict'
 
 const appError = require('bin/config.js').appError;
